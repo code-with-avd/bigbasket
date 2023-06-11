@@ -1,4 +1,3 @@
-#its my EvenOdd file i want to check num is even or odd
 #!bin/bash
 NUM=$1
 
